@@ -1,0 +1,43 @@
+ .starrightproimagerg {
+     float: right;
+     width: 42%;
+     box-sizing: border-box;
+     margin: 0;
+     padding: 2%;
+
+ }
+
+ .starrightprotextnamerg {
+     float: left;
+     width: 53%;
+     color: black;
+     padding: 20px;
+
+ }
+
+ .starrightpropronamerg {
+     font-size: 1.5rem;
+     font-size: calculateRem(1.5rem);
+     color: #2b2b2d;
+     margin: 0;
+     font-family: "Bitter", sans-serif;
+     font-weight: 700;
+     padding: 7%;
+
+ }
+
+ .starrightproprodesc {
+     font-size: .875rem;
+     font-family: "Montserrat", sans-serif;
+     font-weight: 500;
+     line-height: 1.33;
+     letter-spacing: -0.5px;
+     padding: 20px 0 0;
+
+ }
+
+ .starrightprocontainerrg {
+     height: auto;
+     overflow: hidden;
+     width:100%;
+ }
